@@ -1,4 +1,4 @@
 snake
 =====
 
-Classical snake game. 'a, s, d, w' for moving
+simple snake game clone. 'a, s, d, w' for moving
